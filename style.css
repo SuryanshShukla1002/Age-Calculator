@@ -66,6 +66,5 @@
     background-position: calc(100% - 10px);
     background-size: 30px;
     cursor: pointer;
-    height: auto;
-    
+    height: auto; 
 }
